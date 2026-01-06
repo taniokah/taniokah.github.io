@@ -18,7 +18,7 @@ td, th {
    <p align="center">
      <img src="https://researchmap.jp/taniokah/avatar.jpg" alt="Hiroki Tanioka" width="180">
    </p>
-</td><td width="300">
+</td><td width="1200">
   <h3>Hiroki Tanioka, Ph.D.</h3>
   
   <div>Senior Lecturer</div>  
