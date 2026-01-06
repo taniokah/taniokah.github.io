@@ -4,18 +4,24 @@ title: 谷岡 広樹 | 徳島大学
 lang: ja
 ---
 
-<table style="border:0px"><tr><td>
-  <p align="center">
-    <img src="https://researchmap.jp/taniokah/avatar.jpg" alt="谷岡 広樹 / Hiroki Tanioka" width="180">
-  </p>
+<style>
+td, th {
+   border: none!important;
+}
+</style>
+
+<table><tr><td>
+<p align="center">
+  <img src="https://researchmap.jp/taniokah/avatar.jpg" alt="谷岡 広樹 / Hiroki Tanioka" width="180">
+</p>
 </td><td>
-  # 谷岡 広樹  
-  **Hiroki Tanioka, Ph.D.**
-  
-  徳島大学 情報センター 講師  
-  デザイン型AI教育研究センター（AI社会実装部門）
-  
-  [English](./index.en.html "English")
+# 谷岡 広樹  
+**Hiroki Tanioka, Ph.D.**
+
+徳島大学 情報センター 講師  
+デザイン型AI教育研究センター（AI社会実装部門）
+
+[English](./index.en.html "English")
 </td></tr></table>
 
 ---
