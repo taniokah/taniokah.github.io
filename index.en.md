@@ -8,11 +8,23 @@ lang: en
 <a href="./index.html">日本語</a>
 </div>
 
-# Hiroki Tanioka, Ph.D.
+<style>
+td, th {
+   border: none!important;
+}
+</style>
 
-Senior Lecturer  
-Center for Administration of Information Technology, Tokushima University  
-Design-Oriented AI Education and Research Center
+<table><tr><td>
+   <p align="center">
+     <img src="https://researchmap.jp/taniokah/avatar.jpg" alt="Hiroki Tanioka" width="180">
+   </p>
+</td><td width="300">
+  <h3>Hiroki Tanioka, Ph.D.</h3>
+  
+  <div>Senior Lecturer</div>  
+  <div>Center for Administration of Information Technology, Tokushima University</div>  
+  <div>Design-Oriented AI Education and Research Center</div>
+</td></tr></table>
 
 ---
 
