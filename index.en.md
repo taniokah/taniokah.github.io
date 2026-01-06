@@ -5,20 +5,20 @@ lang: en
 ---
 
 <style>
-table, tbody, td, th {
+div, table, tbody, td, th {
    border: none!important;
 }
 </style>
+
+<div width="100%" style="text-align:right">
+<a href="./index.html">日本語</a>
+</div>
 
 <table><tr width="100%"><td>
    <p align="center">
      <img src="https://researchmap.jp/taniokah/avatar.jpg" alt="Hiroki Tanioka" width="180">
    </p>
 </td><td>
-   <div width="100%" style="text-align:right">
-   <a href="./index.html">日本語</a>
-   </div>
-   
   <h1>Hiroki Tanioka, Ph.D.</h1>
   
   <div>Senior Lecturer</div>  
