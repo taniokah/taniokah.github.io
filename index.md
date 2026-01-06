@@ -4,10 +4,6 @@ title: 谷岡 広樹 | 徳島大学
 lang: ja
 ---
 
-<div style="text-align:right">
-<a href="./index.en.html">English</a>
-</div>
-
 <style>
 table, tbody, td, th {
    border: none!important;
@@ -19,6 +15,10 @@ table, tbody, td, th {
      <img src="https://researchmap.jp/taniokah/avatar.jpg" alt="谷岡 広樹 / Hiroki Tanioka" width="180">
    </p>
 </td><td>
+   <div width="100%" style="text-align:right">
+   <a href="./index.en.html">English</a>
+   </div>
+   
    <h1>谷岡 広樹</h1>   
    <b>Hiroki Tanioka, Ph.D.</b>
    
