@@ -19,7 +19,7 @@ table, tbody, td, th {
      <img src="https://researchmap.jp/taniokah/avatar.jpg" alt="Hiroki Tanioka" width="180">
    </p>
 </td><td>
-  <h3>Hiroki Tanioka, Ph.D.</h3>
+  <h1>Hiroki Tanioka, Ph.D.</h1>
   
   <div>Senior Lecturer</div>  
   <div>Center for Administration of Information Technology, Tokushima University</div>  
