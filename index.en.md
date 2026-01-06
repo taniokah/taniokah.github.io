@@ -14,7 +14,7 @@ div, table, tbody, td, th {
 <a href="./index.html">日本語</a>
 </div>
 
-<table width="100%"><tr width="100%"><td>
+<table width="100%"><tr width="100%"><td width="180">
    <p align="center">
      <img src="https://researchmap.jp/taniokah/avatar.jpg" alt="Hiroki Tanioka" width="180">
    </p>
