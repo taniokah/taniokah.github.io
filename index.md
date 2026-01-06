@@ -14,11 +14,11 @@ td, th {
 }
 </style>
 
-<table><tr><td>
+<table><tr width="100%"><td>
    <p align="center">
      <img src="https://researchmap.jp/taniokah/avatar.jpg" alt="谷岡 広樹 / Hiroki Tanioka" width="180">
    </p>
-</td><td width="100%">
+</td><td>
    <h3>谷岡 広樹</h3>   
    <b>Hiroki Tanioka, Ph.D.</b>
    
