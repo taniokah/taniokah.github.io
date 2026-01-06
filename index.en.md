@@ -14,11 +14,11 @@ div, table, tbody, td, th {
 <a href="./index.html">日本語</a>
 </div>
 
-<table width="100%"><tr width="100%"><td width="180">
+<table width="100%"><tr width="100%"><td width="20%">
    <p align="center">
      <img src="https://researchmap.jp/taniokah/avatar.jpg" alt="Hiroki Tanioka" width="180">
    </p>
-</td><td>
+</td><td width="80%">
   <h1>Hiroki Tanioka, Ph.D.</h1>
   
   <div>Senior Lecturer</div>  
