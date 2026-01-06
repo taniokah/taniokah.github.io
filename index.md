@@ -18,7 +18,7 @@ div, table, tbody, td, th {
    <p align="center">
      <img src="https://researchmap.jp/taniokah/avatar.jpg" alt="谷岡 広樹 / Hiroki Tanioka" width="180">
    </p>
-</td><td>
+</td><td width="100%">
    <h1>谷岡 広樹</h1>   
    <b>Hiroki Tanioka, Ph.D.</b>
    
