@@ -9,7 +9,7 @@ lang: ja
 </div>
 
 <style>
-td, th {
+table, tbody, td, th {
    border: none!important;
 }
 </style>
@@ -19,7 +19,7 @@ td, th {
      <img src="https://researchmap.jp/taniokah/avatar.jpg" alt="谷岡 広樹 / Hiroki Tanioka" width="180">
    </p>
 </td><td>
-   <h3>谷岡 広樹</h3>   
+   <h1>谷岡 広樹</h1>   
    <b>Hiroki Tanioka, Ph.D.</b>
    
    <div>徳島大学 情報センター 講師  </div>
