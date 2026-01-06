@@ -9,14 +9,14 @@ lang: ja
     <img src="https://researchmap.jp/taniokah/avatar.jpg" alt="谷岡 広樹 / Hiroki Tanioka" width="180">
   </p>
 </td><td>
-  <div style="text-align:right">
   <a href="./index.en.html">English</a>
-  </div>
   # 谷岡 広樹  
   **Hiroki Tanioka, Ph.D.**
   
   徳島大学 情報センター 講師  
   デザイン型AI教育研究センター（AI社会実装部門）
+  
+  [English](./index.en.html "English")
 </td></tr></table>
 
 ---
