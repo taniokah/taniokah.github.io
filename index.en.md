@@ -1,9 +1,3 @@
----
-layout: default
-title: Hiroki Tanioka | Tokushima University
-lang: en
----
-
 <style>
 div, table, tbody, td, th {
    border: none!important;
