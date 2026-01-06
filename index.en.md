@@ -5,7 +5,7 @@ lang: en
 ---
 
 <div style="text-align:right">
-<a href="./index.md">日本語</a>
+<a href="./index.html">日本語</a>
 </div>
 
 # Hiroki Tanioka, Ph.D.
