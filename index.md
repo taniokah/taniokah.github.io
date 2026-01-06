@@ -4,15 +4,14 @@ title: 谷岡 広樹 | 徳島大学
 lang: ja
 ---
 
-<div style="text-align:right">
-<a href="./index.en.html">English</a>
-</div>
-
-<table><tr><td>
+<table style="border:0px"><tr><td>
   <p align="center">
     <img src="https://researchmap.jp/taniokah/avatar.jpg" alt="谷岡 広樹 / Hiroki Tanioka" width="180">
   </p>
 </td><td>
+  <div style="text-align:right">
+  <a href="./index.en.html">English</a>
+  </div>
   # 谷岡 広樹  
   **Hiroki Tanioka, Ph.D.**
   
