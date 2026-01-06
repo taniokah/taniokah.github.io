@@ -15,13 +15,13 @@ td, th {
   <img src="https://researchmap.jp/taniokah/avatar.jpg" alt="谷岡 広樹 / Hiroki Tanioka" width="180">
 </p>
 </td><td>
-# 谷岡 広樹  
-**Hiroki Tanioka, Ph.D.**
+<h1>谷岡 広樹</h1>   
+<b>Hiroki Tanioka, Ph.D.</b>
 
-徳島大学 情報センター 講師  
-デザイン型AI教育研究センター（AI社会実装部門）
+<div>徳島大学 情報センター 講師  </div>
+<div>デザイン型AI教育研究センター（AI社会実装部門）</div>
 
-[English](./index.en.html "English")
+<a href="./index.en.html">English</a>
 </td></tr></table>
 
 ---
