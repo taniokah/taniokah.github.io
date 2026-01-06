@@ -4,6 +4,10 @@ title: 谷岡 広樹 | 徳島大学
 lang: ja
 ---
 
+<div style="text-align:right">
+<a href="./index.en.html">English</a>
+</div>
+
 <style>
 td, th {
    border: none!important;
@@ -20,8 +24,6 @@ td, th {
    
    <div>徳島大学 情報センター 講師  </div>
    <div>デザイン型AI教育研究センター（AI社会実装部門）</div>
-   
-   <a href="./index.en.html">English</a>
 </td></tr></table>
 
 ---
