@@ -9,7 +9,7 @@ lang: en
 </div>
 
 <style>
-td, th {
+table, tbody, td, th {
    border: none!important;
 }
 </style>
