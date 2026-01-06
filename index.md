@@ -8,6 +8,10 @@ lang: ja
 <a href="./index.en.html">English</a>
 </div>
 
+<p align="center">
+  <img src="https://researchmap.jp/taniokah/avatar.jpg" alt="谷岡 広樹 / Hiroki Tanioka" width="180">
+</p>
+
 # 谷岡 広樹  
 **Hiroki Tanioka, Ph.D.**
 
