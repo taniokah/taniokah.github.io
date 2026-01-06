@@ -19,7 +19,7 @@ td, th {
      <img src="https://researchmap.jp/taniokah/avatar.jpg" alt="谷岡 広樹 / Hiroki Tanioka" width="180">
    </p>
 </td><td width="300">
-   <h2>谷岡 広樹</h2>   
+   <h3>谷岡 広樹</h3>   
    <b>Hiroki Tanioka, Ph.D.</b>
    
    <div>徳島大学 情報センター 講師  </div>
