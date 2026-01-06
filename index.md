@@ -5,7 +5,7 @@ lang: ja
 ---
 
 <div style="text-align:right">
-<a href="./index.en.md">English</a>
+<a href="./index.en.html">English</a>
 </div>
 
 # 谷岡 広樹  
