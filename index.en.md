@@ -146,10 +146,10 @@ My work addresses zoo visitor support, digital transformation in educational env
 **Representative Papers and Presentations**
 - **Trend Analysis of Consumer Issues Using PIO-NET: Topic Comparison of Time-Series Data Through Text Mining**  
   *Research Discussion Paper, International Consumer Policy Research Center, New Future Strategy Headquarters, Consumer Affairs Agency of Japan*, 2023.  
-  Reference: [Trend analysis of consumer issues using PIO-NET](https://www.caa.go.jp/en/policy/future/icprc/research_004)
+  Reference: [Consumer Affairs Agency](https://www.caa.go.jp/en/policy/future/icprc/research_004)
 - **Local Zoo Animal Stamp Rally Application using Image Recognition**  
   *IEEE International Conference on Computational Photography 2019*, 2019.  
-  Reference: [Local Zoo Guide Application using Image Recognition](https://ken.ieice.org/ken/paper/20190228P1jz/eng/)
+  Reference: [IEICE](https://ken.ieice.org/ken/paper/20190228P1jz/eng/)
 
 ---
 
