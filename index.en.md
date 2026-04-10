@@ -25,7 +25,7 @@ div, table, tbody, td, th {
       <h1>Hiroki Tanioka</h1>
       <b>Hiroki Tanioka, Ph.D.</b><br>
       Lecturer, Information Center, Tokushima University<br>
-      Design-Oriented AI Education Research Center (AI Social Implementation Division)
+      Design-Oriented AI Education Research Center (Division of AI for Social Implementation)
     </td>
   </tr>
 </table>
@@ -34,47 +34,47 @@ div, table, tbody, td, th {
 
 ## Overview
 
-**Hiroki Tanioka** is a Senior Lecturer at the Center for Administration of Information Technolgoy and the Center for Design-Oriented AI Education and Research, Tokushima University.  
-His research, education, and social implementation activities focus on **machine learning, sports data analysis, information security, data science education, and field informatics**.
+**Hiroki Tanioka** is a Senior Lecturer at the Center for Administration of Information Technology of Tokushima University and a member of the Center for Design-Oriented AI Education and Research.  
+His work focuses on **machine learning, sports data analytics, information security, data science education, and field informatics**, integrating research, education, and real-world applications.
 
-Building on his experience in industrial R&D, product planning, and project management, he is currently engaged in practical research on AI and data utilization as well as university-community collaboration.
+With over 20 years of industry experience in research and development, product planning, and project management, he conducts practice-oriented research on AI and data utilization while collaborating with local communities.
 
-His major areas of focus include:
+His main research interests include:
 
-- **Applied research on real-world data analysis using machine learning and LLMs**
-- **Data-driven support in sports, healthcare, and public-sector domains**
-- **AI applications with strong consideration for information security and privacy**
-- **AI and data science education in collaboration with local communities**
-- **Field-informatics approaches rooted in real-world problems**
+- Applied machine learning and large language models (LLMs)
+- Data-driven support in sports, healthcare, and public sectors
+- Privacy-aware and secure AI systems
+- AI and data science education in collaboration with local communities
+- Field informatics approaches grounded in real-world problem solving
 
 ---
 
-## Affiliations and Professional Experience
+## Affiliations and Career
 
-- JustSystems (1997–)
-- Furukawa Information Technology (2011–)
-- Works Applications (2014–)
+- JustSystems Corporation (1997–)
+- Furukawa Information Technology Co., Ltd. (2011–)
+- Works Applications Co., Ltd. (2014–)
 - Assistant Professor, Information Center, Tokushima University (2016–)
-- Director, AI Social Implementation Division, Design-Oriented AI Education Research Center, Tokushima University (2020–)
-- Visiting Chief Researcher, International Consumer Policy Research Center, New Future Strategy Headquarters, Consumer Affairs Agency of Japan (2020–)
+- Head, Division of AI for Social Implementation, Design-Oriented AI Education Research Center (2020–)
+- Visiting Chief Researcher, International Consumer Policy Research Center, Consumer Affairs Agency of Japan (2020–)
 - Lecturer, Information Center, Tokushima University (2021–)
-- Director, ICT Services Division, Information Center, Tokushima University (2026–)
+- Head, ICT Services Division, Information Center, Tokushima University (2026–)
 
-Born in Naruto City, Tokushima, Japan, Hiroki Tanioka graduated from Chiba University and then spent 14 years at JustSystems, where he worked in research and development as well as project management.  
-He later served as Unit Leader of a research group at Furukawa Information Technology and as Manager of a new product development group at Works Applications before joining Tokushima University.
+He was born in Naruto City, Tokushima, Japan. After graduating from Chiba University, he worked at JustSystems Corporation for 14 years in R&D and project management.  
+He later served as a research unit leader at Furukawa Information Technology and as a manager of new product development at Works Applications.
 
-While working at JustSystems, he pursued doctoral studies as a working professional at Shinshu University and earned a Ph.D. in Engineering.
+During his time at JustSystems, he obtained a **Doctor of Engineering** from Shinshu University while working full-time.
 
 ---
 
 ## Research Areas and Keywords
 
-- Machine Learning and Natural Language Processing (including neural networks and LLMs)
-- Sports Data Analysis (including multi-object tracking and motion/form analysis)
-- Information Security and Privacy Protection
+- Machine Learning / Natural Language Processing (Neural Networks, LLMs)
+- Sports Data Analytics (tracking, motion and form analysis)
+- Information Security and Privacy
 - Data Science and Text Mining
 - Field Informatics
-- Medical Information Processing and Information Retrieval
+- Medical Informatics / Information Retrieval
 - AI / DX / Data Science Education
 
 ---
@@ -83,40 +83,58 @@ While working at JustSystems, he pursued doctoral studies as a working professio
 
 ### Machine Learning
 
-Machine learning is a core foundation of his current research.  
-During his years in industry, he worked on a broad range of technologies, from Japanese kana-kanji conversion, speech recognition, dialogue systems, natural language processing, spam filtering, and information retrieval to actual product development. He currently applies methods including neural networks and large language models (LLMs) to practical problems in healthcare, education, public services, and sports.
+Machine learning is a central pillar and foundational area of my current research.  
+In industry, I worked extensively on a wide range of technologies, from core technologies such as Japanese kana-kanji conversion, speech recognition, dialogue systems, natural language processing, spam filtering, and information retrieval to actual product development. Currently, I apply methods including neural networks and large language models (LLMs) to practical problems in healthcare, education, public services, and sports.
+
+**Representative Papers and Presentations**
+- **Towards Safe and Trustworthy Healthcare AI: Risk Assessment of Medical Dialogue Using LLMs**  
+  Human-Centric Intelligent Systems, 2025.
+- **Development of semi-automatic image annotation using object recognition**  
+  Proceedings of IIAI-AAI2023, 2023.
 
 ### Sports Data Analysis
 
-In sports informatics, he conducts research on soccer, baseball, and basketball by combining image analysis, tracking technology, statistics, and machine learning.  
-His work includes player localization, multi-object tracking, form analysis, play understanding, and training support, aiming to make sports performance more visible and to provide analysis tools that can be used in real settings.
+In the field of sports, I conduct research on soccer, baseball, and basketball by combining image analysis, tracking technologies, statistical analysis, and machine learning.  
+Through player localization, multi-object tracking, form analysis, play understanding, and training support, I aim to visualize athletic performance and develop analytical support methods that can be used in real-world settings.
+
+**Representative Papers and Presentations**
+- **A Visual Analytics Approach to Basketball Game Understanding Using Image-Based Tracking and Event Detection**  
+  International Journal of Computer Science in Sport, 2025.
+- **Correlation Analysis between Impressions of Soccer School and Moving Speed in Elementary School Children**  
+  Information Engineering Express, 2023.
 
 ### Information Security
 
-In information security, he works on machine-learning-based countermeasures, log analysis, rogue access point detection, and research related to cryptography and cybersecurity.  
-His focus is not limited to attack detection alone; he also emphasizes deployability in operational environments and the safe use of AI with proper privacy considerations.
+In information security, I work on machine-learning-based countermeasures, log analysis, rogue access point detection, and research related to cryptography and cybersecurity.  
+My focus goes beyond simple attack detection to include deployability in operational environments and the safe use of AI with appropriate consideration for privacy.
+
+**Representative Papers and Presentations**
+- **A Method for Detecting Rogue Access Points on Campus Without Decrypting Wireless Frames**  
+  The Transactions of the Institute of Electronics, Information and Communication Engineers (B), 2018.
+- **Security Impact Analysis of Degree of Field Extension in Lattice Attacks on Ring-LWE Problem**  
+  COMPSAC 2023 Workshop, 2023.
 
 ### Data Science Education
 
-In higher education, he has been continuously involved in statistics, data science, and AI education, including textbook writing and the design of practical courses.  
-He also promotes AI education for local communities and collaborations across educational stages, from schools to universities.
+In higher education, I have been continuously engaged in statistics, data science, and AI education, including textbook writing and the design of practical courses.  
+I also promote educational practices tailored to different stages of learning, including community-oriented AI education and collaborations between high schools and universities.
+
+**Representative Papers and Presentations**
+- **Quantitative Measurement and Analysis to Computational Thinking for Elementary Schools in Japan**  
+  Information Engineering Express, 2022.
+- **Development of an Online Test for the Quantitative Measurement of Computational Thinking Skills**  
+  Proceedings of the 45th Annual Conference of the Japanese Society for Information and Systems in Education, 2020.
 
 ### Field Informatics
 
-In field informatics, he values practical approaches that bring information technology into real-world environments.  
-His work addresses areas such as zoo visitor support, digital transformation in educational settings, data analysis for public-sector issues, and regional human resource development, always connecting research and implementation with actual users and contexts.
+In field informatics, I emphasize practical approaches that bring information technology into real-world settings.  
+My work addresses zoo visitor support, digital transformation in educational environments, data analysis in public-sector domains, and regional human resource development, always connecting research and implementation with actual users and social contexts.
 
----
-
-## Representative Research Topics
-
-- **Risk assessment and trustworthiness analysis of medical dialogue using LLMs**
-- **Image analysis, tracking, and motion analysis for soccer, baseball, and basketball**
-- **Machine-learning-based information security and analysis of logs and communication data**
-- **Text mining and time-series analysis of consumer issues using PIO-NET**
-- **Educational practice and teaching material development in statistics, data science, and AI**
-
-For further details, please refer to the research databases and links below.
+**Representative Papers and Presentations**
+- **Trend Analysis of Consumer Issues Using PIO-NET: Topic Comparison of Time-Series Data Through Text Mining**  
+  Research Discussion Paper, International Consumer Policy Research Center, New Future Strategy Headquarters, Consumer Affairs Agency of Japan, 2023.
+- **Local Zoo Animal Stamp Rally Application using Image Recognition**  
+  IEEE International Conference on Computational Photography 2019, 2019.
 
 ---
 
@@ -126,15 +144,15 @@ For further details, please refer to the research databases and links below.
 - Planning and management of community-oriented AI education through Tokupon AI Juku
 - Providing free programming learning opportunities through CoderDojo Tokushima
 - Support for AI utilization and risk assessment for government and public organizations
-- ICT / DX human resource development in collaboration with local communities
+- Support for ICT / DX human resource development in collaboration with local communities
 
 ---
 
 ## Links
 
 - [researchmap](https://researchmap.jp/taniokah)
-- [Tokushima University Researcher Profile (Publications)](http://pub2.db.tokushima-u.ac.jp/ERD/person/309541/work-ja.html)
-- [Tokupon AI Juku](https://www.tokushima-u.ac.jp/ai/tokupon/)
+- [Tokushima University Researcher Database](http://pub2.db.tokushima-u.ac.jp/ERD/person/309541/work-ja.html)
+- [Tokupon AI School](https://www.tokushima-u.ac.jp/ai/tokupon/)
 - [CoderDojo Tokushima](https://cdtokushima.github.io/open/)
 - [Programming / Computational Thinking Project](https://sites.google.com/view/programing-tekisiko/news/publications)
 - [Google Scholar](https://scholar.google.com/citations?user=qMtG6Y4AAAAJ)
