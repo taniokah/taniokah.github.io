@@ -91,15 +91,15 @@ Human-Centric Intelligent Systems, 2025.
 - [**Development of semi-automatic image annotation using object recognition**](https://doi.org/10.1109/IIAI-AAI59060.2023.00109) 
 Proceedings of IIAI-AAI2023, 2023.
 
-### Information Security
+### 情報セキュリティ
 
-In information security, I have worked on practical security technologies including spam filtering, authentication, log analysis, rogue access point detection, and cybersecurity-related research.  
-My interests span both classical security problems and newer approaches that incorporate machine learning, with an emphasis on methods that are effective in real operational environments and mindful of usability and privacy.
+情報セキュリティ分野では、迷惑メールフィルタ、認証、ログ解析、不正アクセスポイント検出、サイバーセキュリティ関連など、実運用を意識した実践的なセキュリティ技術に取り組んできました。  
+従来型のセキュリティ課題から、機械学習を取り入れた新しいアプローチまで幅広く関心を持ち、特に、実環境で有効に機能すること、使いやすさやプライバシーへの配慮を両立することを重視しています。
 
-**Representative Papers and Presentations**
-- **Improvement of Bayesian Filters for Spam Filtering**  
-  *IPSJ SIG Technical Report, Mathematical Modeling and Problem Solving (MPS)*, 2007.  
-  Reference: [CiNii](https://cir.nii.ac.jp/crid/1520290884505780736)
+**代表的な論文・発表**
+- **特徴抽出方法の改善によるベイジアンフィルタの精度向上**  
+  *情報処理学会論文誌 数理モデル化と応用（TOM）*, 2008.  
+  参考: [CiNii](https://cir.nii.ac.jp/crid/1050845762821854080)
 - [**Research on Integrated Authentication Using Passwordless Authentication Method**](https://doi.org/10.1109/COMPSAC.2017.198)  
   *COMPSAC Workshops 2017 Student Research Symposium*, 2017.
 
