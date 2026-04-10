@@ -125,9 +125,10 @@ Information Engineering Express, 2022. - **計算論的思考力の定量的な�
 
 **代表的な論文・発表** 
 - **PIO-NETを利用した消費者問題の傾向分析 ～テキストマイニングを用いた時系列データのトピック比較～** 
-消費者庁新未来創造戦略本部国際消費者政策研究センター リサーチ・ディスカッション・ペーパー, 2023. 参考: [PIO-NETを利用した消費者問題の傾向分析](https://www.caa.go.jp/policies/future/icprc/research_004) 
+消費者庁新未来創造戦略本部国際消費者政策研究センター リサーチ・ディスカッション・ペーパー, 2023.
+参考: [消費者庁](https://www.caa.go.jp/policies/future/icprc/research_004) 
 - **Local Zoo Animal Stamp Rally Application using Image Recognition** IEEE International Conference on Computational Photography 2019, 2019. 
-参考: [画像認識を用いた動物園ガイドアプリの開発](https://ken.ieice.org/ken/paper/20190228P1jz/)
+参考: [IEICE](https://ken.ieice.org/ken/paper/20190228P1jz/)
 
 ---
 
