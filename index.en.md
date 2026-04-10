@@ -92,6 +92,18 @@ In industry, I worked extensively on a wide range of technologies, from core tec
 - [**Development of semi-automatic image annotation using object recognition**](https://doi.org/10.1109/IIAI-AAI59060.2023.00109)  
   *Proceedings of IIAI-AAI 2023*, 2023.
 
+### Information Security
+
+In information security, I have worked on practical security technologies including spam filtering, authentication, log analysis, rogue access point detection, and cybersecurity-related research.  
+My interests span both classical security problems and newer approaches that incorporate machine learning, with an emphasis on methods that are effective in real operational environments and mindful of usability and privacy.
+
+**Representative Papers and Presentations**
+- **Improvement of Feature Extraction for Bayesian Spam Filtering**  
+  *IPSJ TOM*, 2008.  
+  Reference: [CiNii](https://cir.nii.ac.jp/crid/1050845762821854080/?lang=en)
+- [**Research on Integrated Authentication Using Passwordless Authentication Method**](https://doi.org/10.1109/COMPSAC.2017.198)  
+  *COMPSAC Workshops 2017 Student Research Symposium*, 2017.  
+
 ### Sports Data Analysis
 
 In sports analytics, I conduct research on soccer, baseball, and basketball by integrating image analysis, tracking technologies, statistical analysis, and machine learning.  
