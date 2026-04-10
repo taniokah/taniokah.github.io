@@ -6,95 +6,142 @@ lang: ja
 
 <style>
 div, table, tbody, td, th {
-   border: none!important;
+  border: none !important;
 }
 </style>
 
-<div width="100%" style="text-align:right">
-<a href="./index.en.html">English</a>
+<div style="text-align: right;">
+  <a href="./index.en.html">English</a>
 </div>
 
-<table width="100%"><tr width="100%"><td width="20%">
-   <p align="center">
-     <img src="https://researchmap.jp/taniokah/avatar.jpg" alt="谷岡 広樹 / Hiroki Tanioka" width="180">
-   </p>
-</td><td width="80%">
-   <h1>谷岡 広樹</h1>   
-   <b>Hiroki Tanioka, Ph.D.</b>
-   
-   <div>徳島大学 情報センター 講師  </div>
-   <div>デザイン型AI教育研究センター（AI社会実装部門）</div>
-</td></tr></table>
+<table width="100%">
+  <tr>
+    <td width="20%">
+      <p align="center">
+        <img src="https://researchmap.jp/taniokah/avatar.jpg" alt="谷岡 広樹 / Hiroki Tanioka" width="180">
+      </p>
+    </td>
+    <td width="80%">
+      <h1>谷岡 広樹</h1>
+      <b>Hiroki Tanioka, Ph.D.</b><br>
+      徳島大学 情報センター 講師<br>
+      デザイン型AI教育研究センター（AI社会実装部門）
+    </td>
+  </tr>
+</table>
 
 ---
 
 ## 概要
 
 **谷岡 広樹**は、徳島大学 情報センターおよびデザイン型AI教育研究センターに所属する講師です。  
-**データサイエンス・機械学習・自然言語処理・情報セキュリティ・スポーツ解析・AI教育**を横断する研究・教育・社会実装に取り組んでいます。
+**機械学習、スポーツデータ解析、情報セキュリティ、データサイエンス教育、フィールド情報学**を中心に、研究・教育・社会実装に取り組んでいます。
 
-特に、  
-- 公共・教育分野における **プライバシー配慮型AI**
-- 消費者・医療・スポーツ領域における **実データ活用**
-- 地域社会と連携した **AI人材育成・STEAM教育**
+企業における研究開発・製品企画・プロジェクトマネジメントの経験を基盤として、大学では AI・データ活用の実践的研究と地域連携を進めています。
 
-を重点テーマとしています。
+特に、以下のテーマに力を入れています。
+
+- **機械学習・LLMを活用した実データ解析と応用研究**
+- **スポーツ・医療・公共分野におけるデータ駆動型支援**
+- **情報セキュリティとプライバシーに配慮したAI活用**
+- **地域社会と連携したAI / データサイエンス教育**
+- **現場課題に根ざしたフィールド情報学的アプローチ**
 
 ---
 
 ## 所属・職歴
 
-- 徳島大学 情報センター 講師（2024–）
-- 徳島大学 デザイン型AI教育研究センター  
-  AI社会実装部門 部門長（2020–）
-- 消費者庁 新未来創造戦略本部  
-  国際消費者政策研究センター 客員主任研究官（2020–）
+- ジャストシステム (1997-)
+- 古河インフォメーション・テクノロジー (2011-)
+- ワークスアプリケーションズ (2014-)
+- 徳島大学 情報センター 助教（2016–）
+- 徳島大学 デザイン型AI教育研究センター AI社会実装部門 部門長（2020–）
+- 消費者庁 新未来創造戦略本部 国際消費者政策研究センター 客員主任研究官（2020–）
+- 徳島大学 情報センター 講師（2021–）
+- 徳島大学 情報センター ICTサービス部門 部門長 (2026-)
+
+徳島県鳴門市出身。千葉大学卒業後、株式会社ジャストシステムにて14年間、研究開発およびプロジェクトマネージャー業務に従事しました。  
+その後、古河インフォメーション・テクノロジー株式会社で研究グループのユニット長、株式会社ワークスアプリケーションズで新製品開発グループのマネージャーを務め、現在に至ります。
+
+ジャストシステム在職中には、信州大学大学院に社会人ドクターとして進学し、博士（工学）を取得しました。
 
 ---
 
 ## 研究分野・キーワード
 
-- データサイエンス / テキストマイニング  
-- 機械学習・自然言語処理（LLM含む）  
-- 情報セキュリティ・プライバシー保護  
-- 学習支援システム・AI教育  
-- 医療AI・スポーツデータ解析  
+- 機械学習・自然言語処理（ニューラルネットワーク、LLM など）
+- スポーツデータ解析（マルチオブジェクト追跡、動作・フォーム分析など）
+- 情報セキュリティ・プライバシー保護
+- データサイエンス・テキストマイニング
+- フィールド情報学
+- 医療情報処理・情報検索
+- AI/DX/データサイエンス教育
 
 ---
 
-## 代表的な研究成果
+## 研究紹介
 
-- **Risk Assessment of Medical Dialogue Using Large Language Models**  
-- **Soccer / Baseball 動作解析とデータ駆動型トレーニング支援**
-- **消費者相談データ（PIO-NET）を用いた大規模要約・分析**
-- **小規模・ローカルLLMを用いた教育向け対話システム**
+### 機械学習
 
-※ 詳細は下記研究者データベースをご参照ください。
+機械学習は、現在の研究活動の基盤となる中核分野です。  
+企業時代には、かな漢字変換、音声認識、対話システム、自然言語処理、迷惑メールフィルタ、情報検索などの要素技術から製品開発まで幅広く携わってきました。現在は、ニューラルネットワークや大規模言語モデル（LLM）を含む手法を用い、医療、教育、公共、スポーツなどの実課題に応用しています。
+
+### スポーツデータ解析
+
+スポーツ分野では、サッカー、野球、バスケットボールを対象に、画像解析、追跡技術、統計解析、機械学習を組み合わせた研究を進めています。  
+選手位置推定、マルチオブジェクト追跡、フォーム分析、プレー理解、トレーニング支援などを通じて、競技の可視化と現場で活用可能な分析支援を目指しています。
+
+### 情報セキュリティ
+
+情報セキュリティ分野では、機械学習を活用した対策技術、ログ解析、不正アクセスポイント検出、暗号・サイバーセキュリティ関連の研究に取り組んでいます。  
+単なる攻撃検出にとどまらず、運用現場で扱える実装性や、プライバシーに配慮した安全な AI 活用を重視しています。
+
+### データサイエンス教育
+
+大学教育では、統計・データサイエンス・AI 教育に継続的に関わっており、教科書執筆や実践的授業設計にも携わっています。  
+また、地域向け AI 教育や高大連携も含めて、学びの段階に応じた教育実践を進めています。
+
+### フィールド情報学
+
+フィールド情報学では、現場に入り込んで情報技術を活用する実践を重視しています。  
+動物園来園者支援、教育現場の DX 化、公共分野でのデータ分析、地域人材育成など、実社会の環境や利用者と接続した研究・実装に取り組んでいます。
+
+---
+
+## 代表的な研究テーマ
+
+- **LLMを活用した医療対話のリスク評価と信頼性分析**
+- **Soccer / Baseball / Basketball を対象とした画像解析・追跡・動作分析**
+- **機械学習による情報セキュリティ対策とログ・通信データ解析**
+- **PIO-NET を利用した消費者問題のテキストマイニングと時系列分析**
+- **統計・データサイエンス・AI教育の実践と教材開発**
+
+詳細は、下記の研究者データベース等をご参照ください。
 
 ---
 
 ## 教育・社会貢献
 
 - 大学・高校・小中学生向け AI / データサイエンス教育
-- CoderDojo・地域ICT人材育成支援
-- 行政・公共機関向け AI利活用・リスク評価支援
+- とくぽんAI塾を通じた地域向け AI 教育の企画・運営
+- CoderDojo Tokushima を通じた無償のプログラミング体験機会の提供
+- 行政・公共機関向け AI 利活用・リスク評価支援
+- 地域社会と連携した ICT / DX 人材育成支援
 
 ---
 
 ## Links
 
-- researchmap  
-  https://researchmap.jp/taniokah
-- Google Scholar  
-  https://scholar.google.com/citations?user=qMtG6Y4AAAAJ
-- DBLP  
-  https://dblp.org/pid/04/4201.html
-- Semantic Scholar  
-  https://www.semanticscholar.org/author/Hiroki-Tanioka/2480331
-- ResearchGate  
-  https://www.researchgate.net/profile/Hiroki-Tanioka
-- LinkedIn  
-  https://www.linkedin.com/in/hiroki-tanioka-27057829/
+- [researchmap](https://researchmap.jp/taniokah)
+- [徳島大学 教育研究者総覧（研究発表履歴）](http://pub2.db.tokushima-u.ac.jp/ERD/person/309541/work-ja.html)
+- [とくぽんAI塾](https://www.tokushima-u.ac.jp/ai/tokupon/)
+- [CoderDojo Tokushima](https://cdtokushima.github.io/open/)
+- [Programming / Computational Thinking Project](https://sites.google.com/view/programing-tekisiko/news/publications)
+- [Google Scholar](https://scholar.google.com/citations?user=qMtG6Y4AAAAJ)
+- [DBLP](https://dblp.org/pid/04/4201.html)
+- [Semantic Scholar](https://www.semanticscholar.org/author/Hiroki-Tanioka/2480331)
+- [ResearchGate](https://www.researchgate.net/profile/Hiroki-Tanioka)
+- [LinkedIn](https://www.linkedin.com/in/hiroki-tanioka-27057829/)
 
 ---
 
