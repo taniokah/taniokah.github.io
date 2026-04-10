@@ -84,24 +84,24 @@ During his time at JustSystems, he obtained a **Doctor of Engineering** from Shi
 ### Machine Learning
 
 Machine learning is a central pillar and foundational area of my current research.  
-In industry, I worked extensively on a wide range of technologies, from core technologies such as Japanese kana-kanji conversion, speech recognition, dialogue systems, natural language processing, spam filtering, and information retrieval to actual product development. Currently, I apply methods including neural networks and large language models (LLMs) to practical problems in healthcare, education, public services, and sports.
+In industry, I worked extensively on a wide range of technologies, from core technologies such as Japanese kana-kanji conversion, speech recognition, dialogue systems, natural language processing, spam filtering, and information retrieval to actual product development. I currently apply methods including neural networks and large language models (LLMs) to practical problems in healthcare, education, public services, and sports.
 
 **Representative Papers and Presentations**
-- **Towards Safe and Trustworthy Healthcare AI: Risk Assessment of Medical Dialogue Using LLMs**  
-  Human-Centric Intelligent Systems, 2025.
-- **Development of semi-automatic image annotation using object recognition**  
-  Proceedings of IIAI-AAI2023, 2023.
+- [**Towards Safe and Trustworthy Healthcare AI: Risk Assessment of Medical Dialogue Using LLMs**](https://doi.org/10.1007/s44230-025-00131-4)  
+  *Human-Centric Intelligent Systems*, 2025.
+- [**Development of semi-automatic image annotation using object recognition**](https://doi.org/10.1109/IIAI-AAI59060.2023.00109)  
+  *Proceedings of IIAI-AAI 2023*, 2023.
 
 ### Sports Data Analysis
 
-In the field of sports, I conduct research on soccer, baseball, and basketball by combining image analysis, tracking technologies, statistical analysis, and machine learning.  
-Through player localization, multi-object tracking, form analysis, play understanding, and training support, I aim to visualize athletic performance and develop analytical support methods that can be used in real-world settings.
+In sports analytics, I conduct research on soccer, baseball, and basketball by integrating image analysis, tracking technologies, statistical analysis, and machine learning.  
+Through player localization, multi-object tracking, form analysis, play understanding, and training support, I aim to visualize athletic performance and develop analytical methods that can be effectively used in real-world settings.
 
 **Representative Papers and Presentations**
-- **A Visual Analytics Approach to Basketball Game Understanding Using Image-Based Tracking and Event Detection**  
-  International Journal of Computer Science in Sport, 2025.
-- **Correlation Analysis between Impressions of Soccer School and Moving Speed in Elementary School Children**  
-  Information Engineering Express, 2023.
+- [**A Visual Analytics Approach to Basketball Game Understanding Using Image-Based Tracking and Event Detection**](https://doi.org/10.2478/ijcss-2025-0015)  
+  *International Journal of Computer Science in Sport*, 2025.
+- [**Correlation Analysis between Impressions of Soccer School and Moving Speed in Elementary School Children**](https://doi.org/10.52731/iee.v9.i2.768)  
+  *Information Engineering Express*, 2023.
 
 ### Information Security
 
@@ -109,10 +109,10 @@ In information security, I work on machine-learning-based countermeasures, log a
 My focus goes beyond simple attack detection to include deployability in operational environments and the safe use of AI with appropriate consideration for privacy.
 
 **Representative Papers and Presentations**
-- **A Method for Detecting Rogue Access Points on Campus Without Decrypting Wireless Frames**  
-  The Transactions of the Institute of Electronics, Information and Communication Engineers (B), 2018.
-- **Security Impact Analysis of Degree of Field Extension in Lattice Attacks on Ring-LWE Problem**  
-  COMPSAC 2023 Workshop, 2023.
+- [**A Method for Detecting Rogue Access Points on Campus Without Decrypting Wireless Frames**](https://doi.org/10.14923/transcomj.2017GTP0013)  
+  *The Transactions of the Institute of Electronics, Information and Communication Engineers (B)*, 2018.
+- [**Security Impact Analysis of Degree of Field Extension in Lattice Attacks on Ring-LWE Problem**](https://doi.org/10.1109/COMPSAC57700.2023.00221)  
+  *COMPSAC 2023 Workshop*, 2023.
 
 ### Data Science Education
 
@@ -120,10 +120,11 @@ In higher education, I have been continuously engaged in statistics, data scienc
 I also promote educational practices tailored to different stages of learning, including community-oriented AI education and collaborations between high schools and universities.
 
 **Representative Papers and Presentations**
-- **Quantitative Measurement and Analysis to Computational Thinking for Elementary Schools in Japan**  
-  Information Engineering Express, 2022.
+- [**Quantitative Measurement and Analysis to Computational Thinking for Elementary Schools in Japan**](https://doi.org/10.52731/iee.v8.i1.658)  
+  *Information Engineering Express*, 2022.
 - **Development of an Online Test for the Quantitative Measurement of Computational Thinking Skills**  
-  Proceedings of the 45th Annual Conference of the Japanese Society for Information and Systems in Education, 2020.
+  *Proceedings of the 45th Annual Conference of the Japanese Society for Information and Systems in Education*, 2020.  
+  Related project: [Programming / Computational Thinking Project](https://sites.google.com/view/programing-tekisiko/news/publications)
 
 ### Field Informatics
 
@@ -132,9 +133,11 @@ My work addresses zoo visitor support, digital transformation in educational env
 
 **Representative Papers and Presentations**
 - **Trend Analysis of Consumer Issues Using PIO-NET: Topic Comparison of Time-Series Data Through Text Mining**  
-  Research Discussion Paper, International Consumer Policy Research Center, New Future Strategy Headquarters, Consumer Affairs Agency of Japan, 2023.
+  *Research Discussion Paper, International Consumer Policy Research Center, New Future Strategy Headquarters, Consumer Affairs Agency of Japan*, 2023.  
+  Reference: [Trend analysis of consumer issues using PIO-NET](https://www.caa.go.jp/en/policy/future/icprc/research_004)
 - **Local Zoo Animal Stamp Rally Application using Image Recognition**  
-  IEEE International Conference on Computational Photography 2019, 2019.
+  *IEEE International Conference on Computational Photography 2019*, 2019.  
+  Reference: [Local Zoo Guide Application using Image Recognition](https://ken.ieice.org/ken/paper/20190228P1jz/eng/)
 
 ---
 
