@@ -34,7 +34,7 @@ div, table, tbody, td, th {
 
 ## Overview
 
-**Hiroki Tanioka** is a Senior Lecturer at the Center for Administration of Information Technoolgoy and the Center for Design-Oriented AI Education and Research, Tokushima University.  
+**Hiroki Tanioka** is a Senior Lecturer at the Center for Administration of Information Technolgoy and the Center for Design-Oriented AI Education and Research, Tokushima University.  
 His research, education, and social implementation activities focus on **machine learning, sports data analysis, information security, data science education, and field informatics**.
 
 Building on his experience in industrial R&D, product planning, and project management, he is currently engaged in practical research on AI and data utilization as well as university-community collaboration.
