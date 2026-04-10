@@ -89,7 +89,19 @@ div, table, tbody, td, th {
 - [**Towards Safe and Trustworthy Healthcare AI: Risk Assessment of Medical Dialogue Using LLMs**](https://doi.org/10.1007/s44230-025-00131-4) 
 Human-Centric Intelligent Systems, 2025. 
 - [**Development of semi-automatic image annotation using object recognition**](https://doi.org/10.1109/IIAI-AAI59060.2023.00109) 
-Proceedings of IIAI-AAI2023, 2023. 
+Proceedings of IIAI-AAI2023, 2023.
+
+### Information Security
+
+In information security, I have worked on practical security technologies including spam filtering, authentication, log analysis, rogue access point detection, and cybersecurity-related research.  
+My interests span both classical security problems and newer approaches that incorporate machine learning, with an emphasis on methods that are effective in real operational environments and mindful of usability and privacy.
+
+**Representative Papers and Presentations**
+- **Improvement of Bayesian Filters for Spam Filtering**  
+  *IPSJ SIG Technical Report, Mathematical Modeling and Problem Solving (MPS)*, 2007.  
+  Reference: [CiNii](https://cir.nii.ac.jp/crid/1520290884505780736)
+- [**Research on Integrated Authentication Using Passwordless Authentication Method**](https://doi.org/10.1109/COMPSAC.2017.198)  
+  *COMPSAC Workshops 2017 Student Research Symposium*, 2017.
 
 ### スポーツデータ解析 
 スポーツ分野では、サッカー、野球、バスケットボールを対象に、画像解析、追跡技術、統計解析、機械学習を組み合わせた研究を進めています。 選手位置推定、マルチオブジェクト追跡、フォーム分析、プレー理解、トレーニング支援などを通じて、競技の可視化と現場で活用可能な分析支援を目指しています。 
@@ -99,10 +111,6 @@ Proceedings of IIAI-AAI2023, 2023.
 International Journal of Computer Science in Sport, 2025. 
 - [**Correlation Analysis between Impressions of Soccer School and Moving Speed in Elementary School Children**](https://doi.org/10.52731/iee.v9.i2.768) 
 Information Engineering Express, 2023. ### 情報セキュリティ 情報セキュリティ分野では、機械学習を活用した対策技術、ログ解析、不正アクセスポイント検出、暗号・サイバーセキュリティ関連の研究に取り組んでいます。 単なる攻撃検出にとどまらず、運用現場で扱える実装性や、プライバシーに配慮した安全なAI活用を重視しています。 
-
-**代表的な論文・発表** 
-- **キャンパス内の不正アクセスポイントを無線フレームの復号なく検出する手法** 電子情報通信学会論文誌(B), 2018. DOI: [10.14923/transcomj.2017GTP0013](https://doi.org/10.14923/transcomj.2017GTP0013) 
-- **Security Impact Analysis of Degree of Field Extension in Lattice Attacks on Ring-LWE Problem** COMPSAC 2023 Workshop, 2023. DOI: [10.1109/COMPSAC57700.2023.00221](https://doi.org/10.1109/COMPSAC57700.2023.00221) 
 
 ### データサイエンス教育 
 大学教育では、統計・データサイエンス・AI教育に継続的に関わっており、教科書執筆や実践的授業設計にも携わっています。 また、地域向けAI教育や高大連携も含めて、学びの段階に応じた教育実践を進めています。 
