@@ -84,40 +84,63 @@ div, table, tbody, td, th {
 ### 機械学習
 
 機械学習は、現在の研究活動の基盤となる中核分野です。  
-企業時代には、かな漢字変換、音声認識、対話システム、自然言語処理、迷惑メールフィルタ、情報検索などの要素技術から製品開発まで幅広く携わってきました。現在は、ニューラルネットワークや大規模言語モデル（LLM）を含む手法を用い、医療、教育、公共、スポーツなどの実課題に応用しています。
+企業においては、かな漢字変換、音声認識、対話システム、自然言語処理、迷惑メールフィルタ、情報検索などの要素技術から製品開発まで幅広く携わってきました。現在は、ニューラルネットワークや大規模言語モデル（LLM）を含む手法を用い、医療、教育、公共、スポーツなどの実課題に応用しています。
+
+**代表的な論文・発表**
+- [**Towards Safe and Trustworthy Healthcare AI: Risk Assessment of Medical Dialogue Using LLMs**](https://doi.org/10.1007/s44230-025-00131-4)  
+  Human-Centric Intelligent Systems, 2025.
+- [**Development of semi-automatic image annotation using object recognition**](https://doi.org/10.1109/IIAI-AAI59060.2023.00109)  
+  Proceedings of IIAI-AAI2023, 2023.
 
 ### スポーツデータ解析
 
 スポーツ分野では、サッカー、野球、バスケットボールを対象に、画像解析、追跡技術、統計解析、機械学習を組み合わせた研究を進めています。  
 選手位置推定、マルチオブジェクト追跡、フォーム分析、プレー理解、トレーニング支援などを通じて、競技の可視化と現場で活用可能な分析支援を目指しています。
 
+**代表的な論文・発表**
+- [**A Visual Analytics Approach to Basketball Game Understanding Using Image-Based Tracking and Event Detection**](https://doi.org/10.2478/ijcss-2025-0015)  
+  International Journal of Computer Science in Sport, 2025.
+- [**Correlation Analysis between Impressions of Soccer School and Moving Speed in Elementary School Children**](https://doi.org/10.52731/iee.v9.i2.768)  
+  Information Engineering Express, 2023.
+
 ### 情報セキュリティ
 
 情報セキュリティ分野では、機械学習を活用した対策技術、ログ解析、不正アクセスポイント検出、暗号・サイバーセキュリティ関連の研究に取り組んでいます。  
-単なる攻撃検出にとどまらず、運用現場で扱える実装性や、プライバシーに配慮した安全な AI 活用を重視しています。
+単なる攻撃検出にとどまらず、運用現場で扱える実装性や、プライバシーに配慮した安全なAI活用を重視しています。
+
+**代表的な論文・発表**
+- **キャンパス内の不正アクセスポイントを無線フレームの復号なく検出する手法**  
+  電子情報通信学会論文誌(B), 2018.  
+  DOI: [10.14923/transcomj.2017GTP0013](https://doi.org/10.14923/transcomj.2017GTP0013)
+- **Security Impact Analysis of Degree of Field Extension in Lattice Attacks on Ring-LWE Problem**  
+  COMPSAC 2023 Workshop, 2023.  
+  DOI: [10.1109/COMPSAC57700.2023.00221](https://doi.org/10.1109/COMPSAC57700.2023.00221)
 
 ### データサイエンス教育
 
-大学教育では、統計・データサイエンス・AI 教育に継続的に関わっており、教科書執筆や実践的授業設計にも携わっています。  
-また、地域向け AI 教育や高大連携も含めて、学びの段階に応じた教育実践を進めています。
+大学教育では、統計・データサイエンス・AI教育に継続的に関わっており、教科書執筆や実践的授業設計にも携わっています。  
+また、地域向けAI教育や高大連携も含めて、学びの段階に応じた教育実践を進めています。
+
+**代表的な論文・発表**
+- [**Quantitative Measurement and Analysis to Computational Thinking for Elementary Schools in Japan**](https://doi.org/10.52731/iee.v8.i1.658)  
+  Information Engineering Express, 2022.
+- **計算論的思考力の定量的な測定を目的としたオンラインテストの開発**  
+  教育システム情報学会第45回全国大会講演論文集, 2020.  
+  関連プロジェクト: [Programming / Computational Thinking Project](https://sites.google.com/view/programing-tekisiko/news/publications)
 
 ### フィールド情報学
 
 フィールド情報学では、現場に入り込んで情報技術を活用する実践を重視しています。  
-動物園来園者支援、教育現場の DX 化、公共分野でのデータ分析、地域人材育成など、実社会の環境や利用者と接続した研究・実装に取り組んでいます。
+動物園来園者支援、教育現場のDX化、公共分野でのデータ分析、地域人材育成など、実社会の環境や利用者と接続した研究・実装に取り組んでいます。
 
----
-
-## 代表的な研究テーマ
-
-- **LLMを活用した医療対話のリスク評価と信頼性分析**
-- **Soccer / Baseball / Basketball を対象とした画像解析・追跡・動作分析**
-- **機械学習による情報セキュリティ対策とログ・通信データ解析**
-- **PIO-NET を利用した消費者問題のテキストマイニングと時系列分析**
-- **統計・データサイエンス・AI教育の実践と教材開発**
-
-詳細は、下記の研究者データベース等をご参照ください。
-
+**代表的な論文・発表**
+- **PIO-NETを利用した消費者問題の傾向分析 ～テキストマイニングを用いた時系列データのトピック比較～**  
+  消費者庁新未来創造戦略本部国際消費者政策研究センター リサーチ・ディスカッション・ペーパー, 2023.  
+  参考: [研究発表履歴（徳島大学）](http://pub2.db.tokushima-u.ac.jp/ERD/person/309541/work-ja.html)
+- **Local Zoo Animal Stamp Rally Application using Image Recognition**  
+  IEEE International Conference on Computational Photography 2019, 2019.  
+  参考: [研究発表履歴（徳島大学）](http://pub2.db.tokushima-u.ac.jp/ERD/person/309541/work-ja.html)
+  
 ---
 
 ## 教育・社会貢献
