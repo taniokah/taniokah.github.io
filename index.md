@@ -79,68 +79,66 @@ div, table, tbody, td, th {
 
 ---
 
-## 研究紹介
+## Research Highlights
 
-### 機械学習
+### Machine Learning
 
-機械学習は、現在の研究活動の基盤となる中核分野です。  
-企業においては、かな漢字変換、音声認識、対話システム、自然言語処理、迷惑メールフィルタ、情報検索などの要素技術から製品開発まで幅広く携わってきました。現在は、ニューラルネットワークや大規模言語モデル（LLM）を含む手法を用い、医療、教育、公共、スポーツなどの実課題に応用しています。
+Machine learning is a central pillar and foundational area of my current research.  
+In industry, I worked extensively on a wide range of technologies, from core technologies such as Japanese kana-kanji conversion, speech recognition, dialogue systems, natural language processing, spam filtering, and information retrieval to actual product development. I currently apply methods including neural networks and large language models (LLMs) to practical problems in healthcare, education, public services, and sports.
 
-**代表的な論文・発表**
+**Representative Papers and Presentations**
 - [**Towards Safe and Trustworthy Healthcare AI: Risk Assessment of Medical Dialogue Using LLMs**](https://doi.org/10.1007/s44230-025-00131-4)  
-  Human-Centric Intelligent Systems, 2025.
+  *Human-Centric Intelligent Systems*, 2025.
 - [**Development of semi-automatic image annotation using object recognition**](https://doi.org/10.1109/IIAI-AAI59060.2023.00109)  
-  Proceedings of IIAI-AAI2023, 2023.
+  *Proceedings of IIAI-AAI 2023*, 2023.
 
-### スポーツデータ解析
+### Sports Data Analysis
 
-スポーツ分野では、サッカー、野球、バスケットボールを対象に、画像解析、追跡技術、統計解析、機械学習を組み合わせた研究を進めています。  
-選手位置推定、マルチオブジェクト追跡、フォーム分析、プレー理解、トレーニング支援などを通じて、競技の可視化と現場で活用可能な分析支援を目指しています。
+In sports analytics, I conduct research on soccer, baseball, and basketball by integrating image analysis, tracking technologies, statistical analysis, and machine learning.  
+Through player localization, multi-object tracking, form analysis, play understanding, and training support, I aim to visualize athletic performance and develop analytical methods that can be effectively used in real-world settings.
 
-**代表的な論文・発表**
+**Representative Papers and Presentations**
 - [**A Visual Analytics Approach to Basketball Game Understanding Using Image-Based Tracking and Event Detection**](https://doi.org/10.2478/ijcss-2025-0015)  
-  International Journal of Computer Science in Sport, 2025.
+  *International Journal of Computer Science in Sport*, 2025.
 - [**Correlation Analysis between Impressions of Soccer School and Moving Speed in Elementary School Children**](https://doi.org/10.52731/iee.v9.i2.768)  
-  Information Engineering Express, 2023.
+  *Information Engineering Express*, 2023.
 
-### 情報セキュリティ
+### Information Security
 
-情報セキュリティ分野では、機械学習を活用した対策技術、ログ解析、不正アクセスポイント検出、暗号・サイバーセキュリティ関連の研究に取り組んでいます。  
-単なる攻撃検出にとどまらず、運用現場で扱える実装性や、プライバシーに配慮した安全なAI活用を重視しています。
+In information security, I work on machine-learning-based countermeasures, log analysis, rogue access point detection, and research related to cryptography and cybersecurity.  
+My focus goes beyond simple attack detection to include deployability in operational environments and the safe use of AI with appropriate consideration for privacy.
 
-**代表的な論文・発表**
-- **キャンパス内の不正アクセスポイントを無線フレームの復号なく検出する手法**  
-  電子情報通信学会論文誌(B), 2018.  
-  DOI: [10.14923/transcomj.2017GTP0013](https://doi.org/10.14923/transcomj.2017GTP0013)
-- **Security Impact Analysis of Degree of Field Extension in Lattice Attacks on Ring-LWE Problem**  
-  COMPSAC 2023 Workshop, 2023.  
-  DOI: [10.1109/COMPSAC57700.2023.00221](https://doi.org/10.1109/COMPSAC57700.2023.00221)
+**Representative Papers and Presentations**
+- [**A Method for Detecting Rogue Access Points on Campus Without Decrypting Wireless Frames**](https://doi.org/10.14923/transcomj.2017GTP0013)  
+  *The Transactions of the Institute of Electronics, Information and Communication Engineers (B)*, 2018.
+- [**Security Impact Analysis of Degree of Field Extension in Lattice Attacks on Ring-LWE Problem**](https://doi.org/10.1109/COMPSAC57700.2023.00221)  
+  *COMPSAC 2023 Workshop*, 2023.
 
-### データサイエンス教育
+### Data Science Education
 
-大学教育では、統計・データサイエンス・AI教育に継続的に関わっており、教科書執筆や実践的授業設計にも携わっています。  
-また、地域向けAI教育や高大連携も含めて、学びの段階に応じた教育実践を進めています。
+In higher education, I have been continuously engaged in statistics, data science, and AI education, including textbook writing and the design of practical courses.  
+I also promote educational practices tailored to different stages of learning, including community-oriented AI education and collaborations between high schools and universities.
 
-**代表的な論文・発表**
+**Representative Papers and Presentations**
 - [**Quantitative Measurement and Analysis to Computational Thinking for Elementary Schools in Japan**](https://doi.org/10.52731/iee.v8.i1.658)  
-  Information Engineering Express, 2022.
-- **計算論的思考力の定量的な測定を目的としたオンラインテストの開発**  
-  教育システム情報学会第45回全国大会講演論文集, 2020.  
-  関連プロジェクト: [Programming / Computational Thinking Project](https://sites.google.com/view/programing-tekisiko/news/publications)
+  *Information Engineering Express*, 2022.
+- **Development of an Online Test for the Quantitative Measurement of Computational Thinking Skills**  
+  *Proceedings of the 45th Annual Conference of the Japanese Society for Information and Systems in Education*, 2020.  
+  Related project: [Programming / Computational Thinking Project](https://sites.google.com/view/programing-tekisiko/news/publications)
 
-### フィールド情報学
+### Field Informatics
 
-フィールド情報学では、現場に入り込んで情報技術を活用する実践を重視しています。  
-動物園来園者支援、教育現場のDX化、公共分野でのデータ分析、地域人材育成など、実社会の環境や利用者と接続した研究・実装に取り組んでいます。
+In field informatics, I emphasize practical approaches that bring information technology into real-world settings.  
+My work addresses zoo visitor support, digital transformation in educational environments, data analysis in public-sector domains, and regional human resource development, always connecting research and implementation with actual users and social contexts.
 
-**代表的な論文・発表**
-- **PIO-NETを利用した消費者問題の傾向分析 ～テキストマイニングを用いた時系列データのトピック比較～**  
-  消費者庁新未来創造戦略本部国際消費者政策研究センター リサーチ・ディスカッション・ペーパー, 2023.  
-  参考: [研究発表履歴（徳島大学）](http://pub2.db.tokushima-u.ac.jp/ERD/person/309541/work-ja.html)
+**Representative Papers and Presentations**
+- **Trend Analysis of Consumer Issues Using PIO-NET: Topic Comparison of Time-Series Data Through Text Mining**  
+  *Research Discussion Paper, International Consumer Policy Research Center, New Future Strategy Headquarters, Consumer Affairs Agency of Japan*, 2023.  
+  Reference: [Trend analysis of consumer issues using PIO-NET](https://www.caa.go.jp/en/policy/future/icprc/research_004)
 - **Local Zoo Animal Stamp Rally Application using Image Recognition**  
-  IEEE International Conference on Computational Photography 2019, 2019.  
-  参考: [研究発表履歴（徳島大学）](http://pub2.db.tokushima-u.ac.jp/ERD/person/309541/work-ja.html)
-  
+  *IEEE International Conference on Computational Photography 2019*, 2019.  
+  Reference: [Local Zoo Guide Application using Image Recognition](https://ken.ieice.org/ken/paper/20190228P1jz/eng/)
+
 ---
 
 ## 教育・社会貢献
