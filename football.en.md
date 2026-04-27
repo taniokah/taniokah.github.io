@@ -16,7 +16,7 @@ div, table, tbody, td, th {
 
 <table width="100%">
   <tr>
-    <td width="20%" style="min-width: 120px;>
+    <td width="20%" style="min-width: 120px;">
       <p align="center">
         <img src="img/tanioka.png" alt="Hiroki Tanioka / 谷岡 広樹" width="180">
       </p>
