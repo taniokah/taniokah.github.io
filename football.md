@@ -55,7 +55,7 @@ div, table, tbody, td, th {
 | 役職 | 徳島大学サッカー部 顧問 |
 | 着任 | 2024年4月 |
 | チーム | 徳島大学サッカー部 |
-| 所属 | 四国大学サッカーリーグ2部、四国大学サッカー連盟 |
+| 所属 | 四国大学サッカーリーグ2部、四国大学サッカー連盟 / 徳島県社会人サッカー1部リーグ |
 | 指導対象年代 | 第1種 |
 | 保有資格 | JFA公認C級コーチ |
 
@@ -113,7 +113,7 @@ div, table, tbody, td, th {
 - Stephen Githinji Karungaru, Hiroki Tanioka, Kenji Matsuura.  
   [**Soccer Players Real Location Determination Using Perspective Transformation**](https://doi.org/10.1109/SCISISIS55246.2022.10001939)  
   Joint 12th International Conference on Soft Computing and Intelligent Systems and 23rd International Symposium on Advanced Intelligent Systems, SCIS&ISIS 2022, pp.1–4, 2022.  
-  [DOI](https://doi.org/10.1109/SCISISIS55246.2022.10001939) / [DBLP](https://dblp.org/rec/conf/scisisis/KarungaruTM22)
+  [DOI](https://doi.org/10.1109/SCISISIS55246.2022.10001939)
 
 - Stephen Githinji Karungaru, Kenji Matsuura, Hiroki Tanioka, Naoya Kohda, Naka Gotoda, Tomohito Wada.  
   [**Towards Drone-Video Player Detection and Tracking for Soccer Strategy Analysis**](https://ieej.bookpark.ne.jp/products/ieej-samcon2020tt-1)  
@@ -130,7 +130,12 @@ div, table, tbody, td, th {
 - 谷岡 広樹, 佐藤 充宏, 柘植 竜治.  
   **小学生年代のサッカースクールにおける楽しさの分析**  
   日本フットボール学会 Congress 19, 2022年3月.  
-  [徳島大学 教育研究者総覧](https://pub2.db.tokushima-u.ac.jp/ERD/person/309541/work-ja.html)
+  [徳島大学 教育研究者総覧](https://web.db.tokushima-u.ac.jp/Assistance/browse?eid=385142)
+
+- 谷岡 広樹.
+  **相関関係による得点に繋がるプレーの分析 --- 2019 年 J1 リーグのプレーデータの相関分析 ---**
+  日本フットボール学会 Congress 18, 2021年3月.
+  [徳島大学 教育研究者総覧](https://web.db.tokushima-u.ac.jp/Assistance/browse?eid=374416)
 
 ### スポーツデータサイエンスコンペティション
 
