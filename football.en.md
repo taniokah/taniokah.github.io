@@ -55,7 +55,8 @@ His main areas of interest include:
 | Role | Club Advisor, Tokushima University Football Club |
 | Appointment | April 2024 |
 | Team | Tokushima University Football Club |
-| Affiliation | Shikoku University Football League Division 2, JUFA-Shikoku / Tokushima Prefectural Soccer League Division 1 |
+| Affiliation | Shikoku University Football League Division 2, JUFA-Shikoku |
+|  | Tokushima Prefectural Soccer League Division 1, Tokushima Football Association |
 | Target category | Class 1 / General and university |
 | License | JFA Official Class C License |
 
