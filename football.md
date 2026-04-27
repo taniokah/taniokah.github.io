@@ -95,17 +95,17 @@ div, table, tbody, td, th {
 
 ### 査読付き論文・国際会議論文
 
-- 谷岡 広樹, 佐藤 充宏, 柘植 竜治.  
+- 谷岡 広樹 [佐藤 充宏](http://pub2.db.tokushima-u.ac.jp/ERD/person/60557/profile-ja.html), [柘植 竜治](https://www.instagram.com/p/DPRNviNkwlk/).  
   [**サッカースクールにおける楽しさに関するアンケート分析と因果探索**](https://www.ipsj.or.jp/dp/contents/publication/55/TR0403-11.html)  
   情報処理学会論文誌 デジタルプラクティス, Vol.4, No.3, pp.74–87, 2023.  
   [URL](https://www.ipsj.or.jp/dp/contents/publication/55/TR0403-11.html) / [PDF](https://tokushima-u.repo.nii.ac.jp/record/2010960/files/ipsjdp_4_3_74.pdf)
 
-- Hiroki Tanioka, Mitsuhiro Sato, Ryuji Tsuge.  
+- Hiroki Tanioka, [Mitsuhiro Sato](http://pub2.db.tokushima-u.ac.jp/ERD/person/60557/profile-ja.html), [Ryuji Tsuge](https://www.instagram.com/p/DPRNviNkwlk/).  
   [**Correlation Analysis between Impressions of Soccer School and Moving Speed in Elementary School Children**](https://doi.org/10.52731/iee.v9.i2.768)  
   Information Engineering Express, Vol.9, No.2, 2023.  
   [DOI](https://doi.org/10.52731/iee.v9.i2.768) / [URL](https://iaiai.org/journals/index.php/iee/article/view/768) / [Repository](https://tokushima-u.repo.nii.ac.jp/records/2011735)
 
-- Hiroki Tanioka, Mitsuhiro Sato, Ryuji Tsuge.  
+- Hiroki Tanioka, [Mitsuhiro Sato](http://pub2.db.tokushima-u.ac.jp/ERD/person/60557/profile-ja.html), [Ryuji Tsuge](https://www.instagram.com/p/DPRNviNkwlk/).  
   [**Analyze the Enjoyment of Soccer School in the Elementary School Age**](https://doi.org/10.52731/liir.v001.011)  
   IIAI Letters on Informatics and Interdisciplinary Research, Vol.1, pp.1–11, 2022.  
   [DOI](https://doi.org/10.52731/liir.v001.011) / [URL](https://iaiai.org/letters/index.php/liir/article/download/11/17/103) / [Repository](https://tokushima-u.repo.nii.ac.jp/records/2010262)
@@ -117,12 +117,12 @@ div, table, tbody, td, th {
 
 - Stephen Githinji Karungaru, Kenji Matsuura, Hiroki Tanioka, Naoya Kohda, Naka Gotoda, Tomohito Wada.  
   [**Towards Drone-Video Player Detection and Tracking for Soccer Strategy Analysis**](https://ieej.bookpark.ne.jp/products/ieej-samcon2020tt-1)  
-  Proceedings of the 6th IEEJ International Workshop on Sensing, Actuation, Motion Control, and Optimization, TT-1, pp.1–6, 2020.
+  Proceedings of the 6th IEEJ International Workshop on Sensing, Actuation, Motion Control, and Optimization, TT-1, pp.1–6, 2020.  
   [J-STAGE](https://www.jstage.jst.go.jp/article/jsise/37/3/37_370305/_article/-char/en)
 
-- 谷岡 広樹.
-  [スポーツアナリティクスにおけるデータとAI活用](doi.org/10.14926/jsise.37.192)
-  教育システム情報学会誌, Vol.37, No. 3, pp.192-197, 2020.
+- 谷岡 広樹.  
+  [**スポーツアナリティクスにおけるデータとAI活用**](doi.org/10.14926/jsise.37.192)  
+  教育システム情報学会誌, Vol.37, No. 3, pp.192-197, 2020.  
   [DOI](doi.org/10.14926/jsise.37.192) / [J-STAGE](https://www.jstage.jst.go.jp/article/jsise/37/3/37_370305/_article/-char/ja)
 
 ### 日本フットボール学会
@@ -132,9 +132,9 @@ div, table, tbody, td, th {
   日本フットボール学会 Congress 19, 2022年3月.  
   [徳島大学 教育研究者総覧](https://web.db.tokushima-u.ac.jp/Assistance/browse?eid=385142)
 
-- 谷岡 広樹, [森本 美行](https://www.footballista.jp/special/108622)[news](https://www.veertien.jp/fc/news_all/top_news/107047)..
-  **相関関係による得点に繋がるプレーの分析 --- 2019 年 J1 リーグのプレーデータの相関分析 ---**
-  日本フットボール学会 Congress 18, 2021年3月.
+- 谷岡 広樹, [森本 美行](https://www.footballista.jp/special/108622) [news](https://www.veertien.jp/fc/news_all/top_news/107047).  
+  **相関関係による得点に繋がるプレーの分析 --- 2019 年 J1 リーグのプレーデータの相関分析 ---**  
+  日本フットボール学会 Congress 18, 2021年3月.  
   [徳島大学 教育研究者総覧](https://web.db.tokushima-u.ac.jp/Assistance/browse?eid=374416)
 
 ### スポーツデータサイエンスコンペティション
