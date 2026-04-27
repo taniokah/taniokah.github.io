@@ -131,7 +131,12 @@ In joint research with Tokushima Vortis Co., Ltd., he worked on analyses related
 - Hiroki Tanioka, Mitsuhiro Sato, Ryuji Tsuge.  
   **Analysis of Enjoyment in Football Schools for Elementary-School-Age Children**  
   Japanese Society of Science and Football Congress 19, March 2022.  
-  [Tokushima University Educator and Researcher Directory](https://pub2.db.tokushima-u.ac.jp/ERD/person/309541/work-en.html)
+  [Tokushima University Educator and Researcher Directory](https://web.db.tokushima-u.ac.jp/Assistance/browse?eid=385142)
+
+- Hiroki Taniokal, [Miyuki Morimoto](https://www.footballista.jp/special/108622)[news](https://www.veertien.jp/fc/news_all/top_news/107047).
+  **Analysis of plays that lead to scoring by correlation --- Correlation Analysis of 2019 J1 League Stats Data ---**
+  Japanese Society of Science and Football Congress 18, March 2021.  
+  [Tokushima University Educator and Researcher Directory](https://web.db.tokushima-u.ac.jp/Assistance/browse?eid=374416)
 
 ### Sports Data Science Competition
 
