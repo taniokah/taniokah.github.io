@@ -96,7 +96,7 @@ In joint research with Tokushima Vortis Co., Ltd., he worked on analyses related
 
 ### Peer-Reviewed Journal Papers and International Conference Papers
 
-- Hiroki Tanioka, Mitsuhiro Sato, Ryuji Tsuge.  
+- Hiroki Tanioka, [Mitsuhiro Sato](http://pub2.db.tokushima-u.ac.jp/ERD/person/60557/profile-ja.html), [Ryuji Tsuge](https://www.instagram.com/p/DPRNviNkwlk/).  
   [**Questionnaire Analysis and Causal Discovery on Enjoyment in a Soccer School**](https://www.ipsj.or.jp/dp/contents/publication/55/TR0403-11.html)  
   IPSJ Journal of Digital Practices, Vol.4, No.3, pp.74–87, 2023.  
   [URL](https://www.ipsj.or.jp/dp/contents/publication/55/TR0403-11.html) / [PDF](https://tokushima-u.repo.nii.ac.jp/record/2010960/files/ipsjdp_4_3_74.pdf)
