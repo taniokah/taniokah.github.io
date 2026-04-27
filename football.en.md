@@ -212,7 +212,7 @@ By also making use of knowledge from data science and AI, I will support team ac
 - [Japan University Football Association](https://www.jufa.jp/)
 - [Tokushima Football Association](https://tokushima-fa.jp/)
 - [Japan Football Association](https://www.jfa.jp/eng/)
-- [Japanese Society of Science and Football](https://www.jssf.net/)
+- [Japanese Society of Science and Football](https://www.jssf.net/en/)
 
 ---
 
