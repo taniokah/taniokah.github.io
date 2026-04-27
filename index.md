@@ -14,7 +14,7 @@ div, table, tbody, td, th {
   <a href="./index.en.html">English</a> / <a href="./football.html">サッカー</a>
 </div>
 
-<table width="100%"">
+<table width="100%">
   <tr>
     <td width="20%" style="min-width: 120px;">
       <p align="center">
