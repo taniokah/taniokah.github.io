@@ -23,7 +23,6 @@ div, table, tbody, td, th {
     </td>
     <td width="80%">
       <h1>谷岡 広樹</h1>
-      <b>Hiroki Tanioka</b><br>
       徳島大学サッカー部 顧問<br>
       JFA公認C級コーチ
     </td>
