@@ -11,7 +11,7 @@ div, table, tbody, td, th {
 </style>
 
 <div style="text-align: right;">
-  <a href="./index.en.html">English</a> / <a href="./football.en.html">サッカー部</a>
+  <a href="./index.en.html">English</a> / <a href="./football.html">サッカー</a>
 </div>
 
 <table width="100%">
