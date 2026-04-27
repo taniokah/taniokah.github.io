@@ -18,12 +18,12 @@ div, table, tbody, td, th {
   <tr>
     <td width="20%">
       <p align="center">
-        <img src="https://researchmap.jp/taniokah/avatar.jpg" alt="谷岡 広樹 / Hiroki Tanioka" width="180">
+        <img src="img/tanioka.png" alt="谷岡 広樹 / Hiroki Tanioka" width="180">
       </p>
     </td>
     <td width="80%">
       <h1>谷岡 広樹</h1>
-      <b>Hiroki Tanioka, Ph.D.</b><br>
+      <b>Hiroki Tanioka</b><br>
       徳島大学サッカー部 顧問<br>
       JFA公認C級コーチ
     </td>
