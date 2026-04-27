@@ -145,7 +145,7 @@ Information Engineering Express, 2022. - **計算論的思考力の定量的な�
 ## Links
 
 - [researchmap](https://researchmap.jp/taniokah)
-- [徳島大学 教育研究者総覧（研究発表履歴）](http://pub2.db.tokushima-u.ac.jp/ERD/person/309541/work-ja.html)
+- [徳島大学 教育研究者総覧（研究発表履歴）](http://pub2.db.tokushima-u.ac.jp/ERD/person/309541/profile-ja.html)
 - [徳島大学サッカー部](https://www.instagram.com/t.u.soccer/)
 - [とくぽんAI塾](https://www.tokushima-u.ac.jp/ai/tokupon/)
 - [CoderDojo Tokushima](https://cdtokushima.github.io/open/)
