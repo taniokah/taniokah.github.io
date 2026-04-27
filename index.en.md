@@ -167,6 +167,7 @@ My work addresses zoo visitor support, digital transformation in educational env
 
 - [researchmap](https://researchmap.jp/taniokah)
 - [Tokushima University Researcher Database](http://pub2.db.tokushima-u.ac.jp/ERD/person/309541/work-ja.html)
+- [Tokushima University Football Club](https://www.instagram.com/t.u.soccer/)
 - [Tokupon AI School](https://www.tokushima-u.ac.jp/ai/tokupon/)
 - [CoderDojo Tokushima](https://cdtokushima.github.io/open/)
 - [Programming / Computational Thinking Project](https://sites.google.com/view/programing-tekisiko/news/publications)
