@@ -12,6 +12,7 @@ div, table, tbody, td, th {
 
 <div style="text-align: right;">
   <a href="./index.en.html">English</a>
+  <a href="./football.en.html">サッカー部</a>
 </div>
 
 <table width="100%">
