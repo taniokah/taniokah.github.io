@@ -16,12 +16,12 @@ div, table, tbody, td, th {
 
 <table width="100%">
   <tr>
-    <td width="20%">
+    <td hight="100%">
       <p align="center">
         <img src="https://researchmap.jp/taniokah/avatar.jpg" alt="谷岡 広樹 / Hiroki Tanioka" width="180">
       </p>
     </td>
-    <td width="80%">
+    <td>
       <h1>谷岡 広樹</h1>
       <b>Hiroki Tanioka, Ph.D.</b><br>
       徳島大学 情報センター 講師<br>
