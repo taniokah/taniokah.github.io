@@ -23,8 +23,7 @@ div, table, tbody, td, th {
     </td>
     <td width="80%">
       <h1>Hiroki Tanioka</h1>
-      <b>Hiroki Tanioka, Ph.D.</b><br>
-      Lecturer, Information Center, Tokushima University<br>
+      Lecturer, Information Center, Tokushima University / Ph.D.<br>
       Design-Oriented AI Education Research Center (Division of AI for Social Implementation)
     </td>
   </tr>
