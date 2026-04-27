@@ -23,7 +23,6 @@ div, table, tbody, td, th {
     </td>
     <td width="80%">
       <h1>Hiroki Tanioka</h1>
-      <b>Hiroki Tanioka, Ph.D.</b><br>
       Club Advisor, Tokushima University Football Club<br>
       JFA Official Class C License
     </td>
