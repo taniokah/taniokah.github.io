@@ -96,17 +96,17 @@ In joint research with Tokushima Vortis Co., Ltd., he worked on analyses related
 
 ### Peer-Reviewed Journal Papers and International Conference Papers
 
-- Hiroki Tanioka, [Mitsuhiro Sato](http://pub2.db.tokushima-u.ac.jp/ERD/person/60557/profile-ja.html), [Ryuji Tsuge](https://www.instagram.com/p/DPRNviNkwlk/).  
+- Hiroki Tanioka, [Mitsuhiro Sato](http://pub2.db.tokushima-u.ac.jp/ERD/person/60557/profile-en.html), [Ryuji Tsuge](https://www.instagram.com/p/DPRNviNkwlk/).  
   [**Questionnaire Analysis and Causal Discovery on Enjoyment in a Soccer School**](https://www.ipsj.or.jp/dp/contents/publication/55/TR0403-11.html)  
   IPSJ Journal of Digital Practices, Vol.4, No.3, pp.74–87, 2023.  
   [URL](https://www.ipsj.or.jp/dp/contents/publication/55/TR0403-11.html) / [PDF](https://tokushima-u.repo.nii.ac.jp/record/2010960/files/ipsjdp_4_3_74.pdf)
 
-- Hiroki Tanioka, Mitsuhiro Sato, Ryuji Tsuge.  
+- Hiroki Tanioka, [Mitsuhiro Sato](http://pub2.db.tokushima-u.ac.jp/ERD/person/60557/profile-en.html), [Ryuji Tsuge](https://www.instagram.com/p/DPRNviNkwlk/).  
   [**Correlation Analysis between Impressions of Soccer School and Moving Speed in Elementary School Children**](https://doi.org/10.52731/iee.v9.i2.768)  
   Information Engineering Express, Vol.9, No.2, 2023.  
   [DOI](https://doi.org/10.52731/iee.v9.i2.768) / [URL](https://iaiai.org/journals/index.php/iee/article/view/768) / [Repository](https://tokushima-u.repo.nii.ac.jp/records/2011735)
 
-- Hiroki Tanioka, Mitsuhiro Sato, Ryuji Tsuge.  
+- Hiroki Tanioka, [Mitsuhiro Sato](http://pub2.db.tokushima-u.ac.jp/ERD/person/60557/profile-en.html), [Ryuji Tsuge](https://www.instagram.com/p/DPRNviNkwlk/).  
   [**Analyze the Enjoyment of Soccer School in the Elementary School Age**](https://doi.org/10.52731/liir.v001.011)  
   IIAI Letters on Informatics and Interdisciplinary Research, Vol.1, pp.1–11, 2022.  
   [DOI](https://doi.org/10.52731/liir.v001.011) / [URL](https://iaiai.org/letters/index.php/liir/article/download/11/17/103) / [Repository](https://tokushima-u.repo.nii.ac.jp/records/2010262)
@@ -128,13 +128,13 @@ In joint research with Tokushima Vortis Co., Ltd., he worked on analyses related
 
 ### Japanese Society of Science and Football
 
-- Hiroki Tanioka, Mitsuhiro Sato, Ryuji Tsuge.  
+- Hiroki Tanioka, [Mitsuhiro Sato](http://pub2.db.tokushima-u.ac.jp/ERD/person/60557/profile-en.html), [Ryuji Tsuge](https://www.instagram.com/p/DPRNviNkwlk/).  
   **Analysis of Enjoyment in Football Schools for Elementary-School-Age Children**  
   Japanese Society of Science and Football Congress 19, March 2022.  
   [Tokushima University Educator and Researcher Directory](https://web.db.tokushima-u.ac.jp/Assistance/browse?eid=385142)
 
-- Hiroki Taniokal, [Miyuki Morimoto](https://www.footballista.jp/special/108622)[news](https://www.veertien.jp/fc/news_all/top_news/107047).
-  **Analysis of plays that lead to scoring by correlation --- Correlation Analysis of 2019 J1 League Stats Data ---**
+- Hiroki Taniokal, [Miyuki Morimoto](https://www.footballista.jp/special/108622)[news](https://www.veertien.jp/fc/news_all/top_news/107047).  
+  **Analysis of plays that lead to scoring by correlation --- Correlation Analysis of 2019 J1 League Stats Data ---**  
   Japanese Society of Science and Football Congress 18, March 2021.  
   [Tokushima University Educator and Researcher Directory](https://web.db.tokushima-u.ac.jp/Assistance/browse?eid=374416)
 
