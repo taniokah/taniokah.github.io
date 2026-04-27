@@ -14,14 +14,14 @@ div, table, tbody, td, th {
   <a href="./index.en.html">English</a> / <a href="./football.html">サッカー</a>
 </div>
 
-<table width="100%">
+<table width="100%"">
   <tr>
-    <td hight="100%">
+    <td widht="20%" style="min-width: 120px;>
       <p align="center">
         <img src="https://researchmap.jp/taniokah/avatar.jpg" alt="谷岡 広樹 / Hiroki Tanioka" width="180">
       </p>
     </td>
-    <td>
+    <td widht="80%">
       <h1>谷岡 広樹</h1>
       <b>Hiroki Tanioka, Ph.D.</b><br>
       徳島大学 情報センター 講師<br>
