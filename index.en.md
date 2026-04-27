@@ -179,4 +179,4 @@ My work addresses zoo visitor support, digital transformation in educational env
 
 ---
 
-© Hiroki Tanioka, Tokushima University
+© 2026 Hiroki Tanioka, Tokushima University
