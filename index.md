@@ -23,8 +23,7 @@ div, table, tbody, td, th {
     </td>
     <td widht="80%">
       <h1>谷岡 広樹</h1>
-      <b>Hiroki Tanioka, Ph.D.</b><br>
-      徳島大学 情報センター 講師<br>
+      徳島大学 情報センター 講師 / 博士（工学）<br>
       デザイン型AI教育研究センター（AI社会実装部門）
     </td>
   </tr>
