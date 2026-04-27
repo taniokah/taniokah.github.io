@@ -18,7 +18,7 @@ div, table, tbody, td, th {
   <tr>
     <td width="20%">
       <p align="center">
-        <img src="https://researchmap.jp/taniokah/avatar.jpg" alt="Hiroki Tanioka / 谷岡 広樹" width="180">
+        <img src="img/tanioka.png" alt="Hiroki Tanioka / 谷岡 広樹" width="180">
       </p>
     </td>
     <td width="80%">
