@@ -149,7 +149,7 @@ Information Engineering Express, 2022. - **計算論的思考力の定量的な�
 - [徳島大学サッカー部](https://www.instagram.com/t.u.soccer/)
 - [とくぽんAI塾](https://www.tokushima-u.ac.jp/ai/tokupon/)
 - [CoderDojo Tokushima](https://cdtokushima.github.io/open/)
-- [Programming / Computational Thinking Project](https://sites.google.com/view/programing-tekisiko/news/publications)
+- [Programming / Computational Thinking Project](https://sites.google.com/view/programing-tekisiko/home)
 - [Google Scholar](https://scholar.google.com/citations?user=qMtG6Y4AAAAJ)
 - [DBLP](https://dblp.org/pid/04/4201.html)
 - [Semantic Scholar](https://www.semanticscholar.org/author/Hiroki-Tanioka/2480331)
